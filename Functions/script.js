@@ -166,3 +166,9 @@
 
 // var c3 = a => console.log("Hello Guys", a);
 // c3('User');
+function aaa(a) {
+  console.log("Heyyyy", a);
+}
+var bbb = function () {
+  console.log("Hello Guys");
+};
