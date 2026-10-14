@@ -1,0 +1,7 @@
+// Create two boolean variables and test &&, ||, and !
+var a = true;
+var b = false;
+
+console.log(a && b);
+console.log(a || b);
+console.log(a | b);
