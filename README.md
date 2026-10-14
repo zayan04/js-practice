@@ -12,4 +12,7 @@ Daily JavaScript practice programs while learning through Job Ready AI Cohort 3.
 - Loops
 - Strings
 - Functions (in progress)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 621b3931601c924b84ab69b8f312f280e75f1358
