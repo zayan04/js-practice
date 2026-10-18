@@ -11,4 +11,4 @@ Daily JavaScript practice programs while learning through Job Ready AI Cohort 3.
 - Conditionals
 - Loops
 - Strings
-- Functions (in progress)
+- Functions
