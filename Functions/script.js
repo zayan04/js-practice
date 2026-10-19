@@ -166,9 +166,31 @@
 
 // var c3 = a => console.log("Hello Guys", a);
 // c3('User');
-function aaa(a) {
-  console.log("Heyyyy", a);
-}
-var bbb = function () {
-  console.log("Hello Guys");
-};
+// function aaa(a) {
+//   console.log("Heyyyy", a);
+// }
+// var bbb = function () {
+//   console.log("Hello Guys");
+// };
+// function calculatearea(length, breadth) {
+//   return length * breadth;
+// }
+// console.log(calculatearea(5, 5));
+// const greet = function (name) {
+//   console.log("Hello", name);
+// };
+
+// greet("Admin");
+// const sayHI = () => {
+//   console.log("Hey User");
+// };
+// sayHI();
+// function user(name = "Sir") {
+//   console.log("Heyy", name);
+// }
+// user("Aman");
+// user()
+// function add(a, b) {
+//   return a + b;
+// }
+// console.log(add(5));
