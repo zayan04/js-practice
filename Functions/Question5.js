@@ -1,7 +1,6 @@
 // Create a function with default parameter "Guest"
-function greet(name = "Guest") {
-
-  console.log("Hello", name);
-
+function user(name = "Guest") {
+  return "Hey " + name;
 }
-greet("zayan");
+// console.log(user("Zayan"));
+console.log(user());
