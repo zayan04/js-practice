@@ -1,0 +1,1 @@
+// Create a function that accepts unlimited numbers and returns their sum using rest operator

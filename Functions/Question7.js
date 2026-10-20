@@ -1,13 +1,10 @@
 // Write a function that returns the greater of two numbers
 
 function num(a, b) {
-
   if (a > b) {
-    return a
-
+    return a;
   } else {
-    return b
+    return b;
   }
 }
-
-console.log(num(3, 4));
+console.log(num(10, 9));
